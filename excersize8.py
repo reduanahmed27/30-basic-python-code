@@ -1,3 +1,5 @@
+#Write a program that converts Fahrenheit to Centigrade.
+
 def fahrenit_to_celcius(fahrenhit):
     tempereture = (fahrenhit-32)/1.8
     return tempereture

@@ -1,3 +1,5 @@
+#Write a program to check whether the year is a leap year or not.
+
 def find_leapyear(year):
     if (year%4==0 and year%100!=0):
         return True

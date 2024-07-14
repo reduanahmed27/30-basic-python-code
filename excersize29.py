@@ -1,3 +1,5 @@
+#Write a program to find the sum of all even numbers between 1 to n.
+
 def sum_of_even(n):
     sum = 0
     i = 2

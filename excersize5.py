@@ -1,3 +1,5 @@
+#Write a program to calculate the perimeter and area of a circle with a given radius.
+
 radius = float(3.1416)
 r = float(input("Enter diamiter : "))
 area = radius*r**2

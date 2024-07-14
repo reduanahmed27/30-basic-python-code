@@ -1,3 +1,5 @@
+#Write a program which can detect if the alaphabet is vowel or consonant.
+
 def vowel_consonent(char):
     vowel = "aeiou"
     lowerchar = char.lower()

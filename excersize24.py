@@ -1,3 +1,6 @@
+#Write a program to input the angles of a triangle and check whether a 
+#triangle is valid or not.
+
 def valid_triangle(a1,a2,a3):
     r1 = a1**2
     r2 = (a2**2)+(a3**2)

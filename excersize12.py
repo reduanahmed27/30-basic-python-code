@@ -1,3 +1,6 @@
+#Write a Program that takes minutes as input and displays the 
+#total number of hours and minutes.
+
 def convert_mint_to_hour(mint):
     div = int(mint/60)
     mod = mint%60

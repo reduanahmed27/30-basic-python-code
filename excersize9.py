@@ -1,3 +1,6 @@
+#Write a Program to enter marks of five subjects and calculate the total, 
+#average, and percentage.
+
 print("Enter marks in five subjects: ")
 subjects=[]
 total = 0

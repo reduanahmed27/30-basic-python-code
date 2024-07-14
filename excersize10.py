@@ -1,3 +1,5 @@
+#Write a Program to enter P, T, and R and calculate simple interest.
+
 def find_simple_interest(p,r,t):
     interest = (p*r*t)/100
     return interest

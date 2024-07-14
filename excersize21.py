@@ -1,3 +1,5 @@
+#Write a program to check whether you are eligible to make a NID Card or not.
+
 def citizenship (s1,s2,s3):
     if s1==s2 and s2==s3:
         return ("You are eligible to make NID card.")

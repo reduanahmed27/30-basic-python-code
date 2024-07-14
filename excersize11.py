@@ -1,3 +1,5 @@
+#Write a Program to enter P, T, and R and calculate compound interest.
+
 def find_advance_interest(p,r,t):
     interest = p*(1+(r/100))**t
     return interest

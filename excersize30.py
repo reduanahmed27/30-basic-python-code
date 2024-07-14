@@ -1,3 +1,5 @@
+#Write a program to find the last digit of a given number
+
 def last_digit(number):
     return number % 10
 

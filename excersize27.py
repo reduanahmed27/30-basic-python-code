@@ -1,3 +1,7 @@
+"""Write a program to read four values a, b, c, and d from the terminal 
+and evaluate the value of (a+b) to (c-d), and print the result, if c-d is not 
+equal to zero."""
+
 def evaluate_expression(a, b, c, d):
     if c - d != 0:
         result = (a + b) / (c - d)

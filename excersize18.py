@@ -1,3 +1,5 @@
+#Write a program to check whether a number is even or odd.
+
 def find_oddeven(num):
     if num%2==0 :
         return "Number is Even"

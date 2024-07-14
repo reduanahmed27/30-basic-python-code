@@ -1,3 +1,5 @@
+#Write a program to find the power of any number x ^ y
+
 def find_power(num,pow):
     r = num**pow
     return r

@@ -1,3 +1,5 @@
+#Write a program to check whether a number is divisible by 5 or 11 or not.
+
 def divisible(num):
 
     if num>=5:

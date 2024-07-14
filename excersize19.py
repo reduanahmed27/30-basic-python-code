@@ -1,3 +1,5 @@
+#Write a program to check whether a number is negative, positive, or zero
+
 def find_pos_neg(num):
     if num>0:
         return "number is positive"
